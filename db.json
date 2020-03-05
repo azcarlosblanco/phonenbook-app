@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "d5616496-fffc-436e-b28d-f29b2f943fd7",
+      "firstName": "Carlos",
+      "lastName": "Blanco",
+      "countryCode": "BR",
+      "phoneNumber": "+357 95611720"
+    },
+    {
+      "id": "9a1d2ce0-be06-45bc-a7ef-c9f6559e8b40",
+      "firstName": "Linda",
+      "lastName": "Fisher",
+      "countryCode": "FR",
+      "phoneNumber": "(444)-910-3173"
+    },
+    {
+      "id": "788e732e-4a78-44ba-920d-65b4ec3ec04e",
+      "firstName": "John",
+      "lastName": "Doe",
+      "countryCode": "US",
+      "phoneNumber": "(444)-930-3163"
+    },
+    {
+      "id": "42c35033-39bf-468b-b219-5f2c18d65a17",
+      "firstName": "Foo",
+      "lastName": "Bar",
+      "countryCode": "VE",
+      "phoneNumber": "(444)-950-3183"
+    }
+  ]
+}
